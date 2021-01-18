@@ -1,3 +1,13 @@
+/**
+ * CSIS 2450 -- Software Engineering I
+ * Assignment: Java Review I
+ * Russell Wadsworth
+ * Review of key fundamental concepts in Java
+ * Part 1: Simple One-Dimensional Int Array
+ * Part 2: Customer and Account Information Arrays
+ * Part 3: "American Express" Account Functionality
+ */
+
 package javaReview;
 
 import java.util.Scanner;
